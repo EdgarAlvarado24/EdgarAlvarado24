@@ -13,8 +13,6 @@ I am characterized by my quality orientation, problem-solving skills, and contin
 - 🌱 I'm currently learning **React**
 - 📫 How to reach me **edgar.alvarado.16@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdgarAlvarado24&label=Profile views&color=0e75b6&style=flat" alt="EdgarAlvarado24" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/EdgarAlvarado24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EdgarAlvarado24" height="30" width="40" /></a>
