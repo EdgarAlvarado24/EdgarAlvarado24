@@ -23,18 +23,42 @@ I am characterized by my quality orientation, problem-solving skills, and contin
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/sql/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarAlvarado24&show_icons=true&locale=en&layout=compact" alt="EdgarAlvarado24" /></p>
